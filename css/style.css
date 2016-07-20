@@ -6,3 +6,9 @@ selector {
 body {
   background-color : #cc99ff;
 }
+
+img {
+  heigth: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
