@@ -1,3 +1,8 @@
+/*
+selector(
+property: value;
+)
+*/
 header,footer {
     background:black;
     color:white;
@@ -12,13 +17,20 @@ nav {
   float:left;
   padding:5px;
 }
+nav(
+    line-height:20px
+    background: #cccccc;
+    height: 600px;
+    width: 120;
+    float: left;
+    padding: 5px;
+    )
+    
 section {
     width:330px;
     float:left;
     padding:15px;
 }
-
-
 
 a {
     color:green;
