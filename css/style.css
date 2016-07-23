@@ -18,11 +18,7 @@ section {
     padding:15px;
 }
 
-footer {
-  clear:both;
-  text-align:center;
-  padding:5px;
-}
+
 
 a {
     color:green;
@@ -37,4 +33,10 @@ img {
   border-radius: 100px;
   height: 200px;
   width: 200px;
+}
+
+footer {
+  clear:both;
+  text-align:center;
+  padding:5px;
 }
