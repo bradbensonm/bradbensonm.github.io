@@ -54,6 +54,13 @@ ul {
     
 }
 
+button {
+    background: red;
+    border-radius: 20px;
+    padding: 20px;
+    font-weight:bold;
+}
+
 footer {
   clear:both;
   text-align:center;
