@@ -34,6 +34,14 @@ a:hover{
   height: 200px;
   width: 200px;
 }
+div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+ul {
+    list-style-image: url('https://www.pexels.com/photo/music-sound-communication-audio-2235/');
+}
 
 footer {
   clear:both;
