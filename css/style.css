@@ -17,17 +17,9 @@ nav {
   float:left;
   padding:10px;
 }
-nav(
-    line-height:20px
-    background: #cccccc;
-    height: 600px;
-    width: 120;
-    float: left;
-    padding: 5px;
-    )
-    
+
 section {
-    width:200px;
+    width:600px;
     float:left;
     padding:15px;
 }
