@@ -5,11 +5,11 @@ header {
     padding: 10px;
 }
 nav {
-  line-height:50px;
+  line-height:20px;
   background: #cccccc;
   height:600px;
   width:120px;
-  float:left;
+  float:top;
   padding:5px;
 }
 section {
