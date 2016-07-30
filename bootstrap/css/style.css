@@ -8,4 +8,5 @@ body {
 }
 .jumbotron {
   background: url(https://static.pexels.com/photos/1077/art-creative-apple-glass.jpg);
+  background-size: cover;
 }
