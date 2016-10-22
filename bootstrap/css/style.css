@@ -9,7 +9,7 @@ body {
 .jumbotron {
   background: url(http://www.unomaha.edu/news/2014/03/media/downtown-h.jpg);
   height: auto;
-  background-size: cover;
+  background-size: 400px;
   background-attachment: fixed;
   
 }
