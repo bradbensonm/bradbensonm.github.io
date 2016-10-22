@@ -1,0 +1,28 @@
+/*comments*/
+body {
+  background: rgb(77, 20, 57);
+}
+
+.btn-warning {
+  background:black;
+}
+.jumbotron {
+  background: url(http://www.unomaha.edu/news/2014/03/media/downtown-h.jpg);
+  height: 500px;
+  background-size: contain;
+  background-attachment: fixed;
+  
+}
+
+#blue {
+  color:blue;
+}
+#white {
+  color:white;
+}
+#yellow {
+  color:yellow;
+}
+#red {
+  color:#4D1439;
+}
