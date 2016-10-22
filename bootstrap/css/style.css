@@ -7,9 +7,9 @@ body {
   background:black;
 }
 .jumbotron {
-  background: url(http://images.bhhsamb.com/Brokers/Content/PruAm/RotatingBanner/September2016.jpg?w=1600&quality=50);
+  background: url(http://images.bhhsamb.com/brokers/content/pruam/resourcebanners/buying.jpg);
   height: 500px;
-  background-size: auto;
+  background-size: cover;
   background-attachment: fixed;
   
 }
